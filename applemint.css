@@ -1,0 +1,15 @@
+
+@font-face {
+  font-family: AppleMint;
+  src: url("https://rawcdn.githack.com/PowerOutages/Fonts/5d099e8a829345e70c9b1d5c1838ce53178fd81c/AppleMint.ttf?raw=true");
+}
+
+@font-face {
+  font-family: AppleMint;
+  src: url("https://rawcdn.githack.com/PowerOutages/Fonts/5d099e8a829345e70c9b1d5c1838ce53178fd81c/AppleMint-Bold.ttf?raw=true");
+  font-weight: bold;
+}
+
+* {
+  font-family: AppleMint !important;
+}
